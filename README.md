@@ -7,3 +7,7 @@ My Mongo DB - https://cloud.mongodb.com/v2/654ba1654c6e861d1df57ec1#/metrics/rep
 Amma1997$
 
 
+
+
+https://public.tableau.com/app/profile/eswar.kumar.kota/viz/HRDataAnalysis_17114108111470/Dashboard1?publish=yes
+Tableau HR Data analytics
