@@ -11,3 +11,11 @@ Amma1997$
 
 https://public.tableau.com/app/profile/eswar.kumar.kota/viz/HRDataAnalysis_17114108111470/Dashboard1?publish=yes
 Tableau HR Data analytics
+
+
+
+
+My Working Projects
+Drum Kit - https://eswarsunny20.github.io/drumKit/
+
+Dice Game - https://eswarsunny20.github.io/Dice-Game/dicee.html
