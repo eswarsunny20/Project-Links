@@ -19,4 +19,4 @@ Nerve to Serve - https://eswarsunny20.github.io/Nerve-To-Serve/
 
 Simon Game - https://eswarsunny20.github.io/simon-Game/
 
-Have a look at my self-developed automation testing framework which can raise a jira bug on test case failure - https://github.com/eswarsunny20/Automated-Bug-Reporting and working diagram
+Have a look at my self-developed automation testing framework which can raise a jira bug on test case failure - https://github.com/eswarsunny20/Automated-Bug-Reporting and working diagram - https://github.com/eswarsunny20/Project-Links/blob/main/_autobug.pdf
