@@ -3,9 +3,7 @@
 Figma for iOS App - https://www.figma.com/file/hafW1HgY8Cyu3ZmKPI8v1f/Eswar-Milestone-Assignment?type=design&node-id=0-1&mode=design&t=34rlvVyI1tw2SUeg-0
 
 
-https://public.tableau.com/app/profile/eswar.kumar.kota/viz/HRDataAnalysis_17114108111470/Dashboard1?publish=yes
-Tableau HR Data analytics
-
+Tableau HR Data analytics - https://public.tableau.com/app/profile/eswar.kumar.kota/viz/HRDataAnalysis_17114108111470/Dashboard1?publish=yes
 
 
 
